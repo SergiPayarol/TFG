@@ -1,8 +1,8 @@
-<b>Trabajo Final de Grado</b>: Análisis y predicción temporal y espacial de la criminalidad en Girona.
+**Trabajo Final de Grado**: Análisis y predicción temporal y espacial de la criminalidad en Girona.
 
-Podéis clonar o descargar el repositorio. Tenéis a vuestra disposición el documento escrito en PDF y los informes tècnicos con todo el código, las gráficas y resultados.
+Podéis clonar o descargar el repositorio. Tenéis a vuestra disposición el documento escrito en PDF y los informes técnicos con todo el código, las gráficas y los resultados.
 
-*Resumen:*
+**Resumen:**
 
 En este trabajo se realiza un análisis y una predicción de la criminalidad en la ciudad de
 Girona de los últimos años. Los datos que se han utilizado proceden de la Policia
@@ -33,5 +33,5 @@ predecir la media de delitos por días de cada mes que puedan ocurrir en los mes
 siguientes a la fecha actual. El propósito de estos modelos es ver si, a partir de los datos
 registrados, puede ser viable hacer predicciones con estos modelos.
 
-*Palabras clave*: Criminalidad, espacio geográfico, tiempo, predicción, serie temporal,
+**Palabras clave**: Criminalidad, espacio geográfico, tiempo, predicción, serie temporal,
 Girona, Policía predictiva, delitos, detenidos.
