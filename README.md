@@ -1,6 +1,6 @@
 **Trabajo Final de Grado**: Análisis y predicción temporal y espacial de la criminalidad en Girona.
 
-Podéis clonar o descargar el repositorio. Tenéis a vuestra disposición el documento escrito en PDF y los informes técnicos con todo el código, las gráficas y los resultados.
+Podéis clonar o descargar el repositorio. Tenéis a vuestra disposición el documento escrito en PDF y los informes técnicos con todo el código, las gráficas y los resultados en castellano (carpeta CAST) y en catalán (carpeta CAT).
 
 **Resumen:**
 
